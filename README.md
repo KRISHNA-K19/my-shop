@@ -2,7 +2,7 @@
 
 A modern **React + TypeScript + Vite** e-commerce project featuring a product shop with **infinite scroll**, **filters**, **search**, **favorites**, and **shopping cart** functionality. Built with **Zustand** for state management and **Tailwind CSS** for styling.  
 
-🔗 Live Demo: [https://krishna-k19.github.io/my-shop/](https://krishna-k19.github.io/my-shop/)
+
 
 ---
 
