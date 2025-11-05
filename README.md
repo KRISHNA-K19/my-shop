@@ -34,5 +34,4 @@ A modern **React + TypeScript + Vite** e-commerce project featuring a product sh
 
 ---
 
-## Project Structure
 
